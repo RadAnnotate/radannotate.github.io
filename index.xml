@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Rad Annotate</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Homepage on Rad Annotate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jun 2025 15:15:26 +1000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annotation Types</title>
+      <link>//localhost:1313/services/annotation-types/</link>
+      <pubDate>Fri, 13 Jun 2025 12:33:46 +1000</pubDate>
+      <guid>//localhost:1313/services/annotation-types/</guid>
+      <description>&lt;p&gt;Experienced radiologists perform various annotation tasks in model development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secure cloud environments</title>
+      <link>//localhost:1313/value/cloud/</link>
+      <pubDate>Tue, 03 Jun 2025 10:47:58 +1000</pubDate>
+      <guid>//localhost:1313/value/cloud/</guid>
+      <description>&lt;p&gt;Secure cloud environments&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modalities Covered</title>
+      <link>//localhost:1313/services/modalities/</link>
+      <pubDate>Fri, 13 Jun 2025 15:14:39 +1000</pubDate>
+      <guid>//localhost:1313/services/modalities/</guid>
+      <description>&lt;p&gt;We cover major radilogy modalities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On-premise option</title>
+      <link>//localhost:1313/value/premise/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <guid>//localhost:1313/value/premise/</guid>
+      <description>&lt;p&gt;On-premise option (if required)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Use Cases</title>
+      <link>//localhost:1313/services/use-cases/</link>
+      <pubDate>Fri, 13 Jun 2025 15:15:26 +1000</pubDate>
+      <guid>//localhost:1313/services/use-cases/</guid>
+      <description>&lt;p&gt;Annotated data could be used for model training and validation, regulatory, reseach and AI benchmarking.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GDPR &amp; HIPAA-compliant handling</title>
+      <link>//localhost:1313/value/gdpr/</link>
+      <pubDate>Sun, 01 Jun 2025 10:44:13 +1000</pubDate>
+      <guid>//localhost:1313/value/gdpr/</guid>
+      <description>&lt;p&gt;GDPR &amp;amp; HIPAA-compliant handling&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NDA-backed workflows</title>
+      <link>//localhost:1313/value/nda/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
+      <guid>//localhost:1313/value/nda/</guid>
+      <description>&lt;p&gt;NDA-backed workflows&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quality Assurance</title>
+      <link>//localhost:1313/services/quality-assurance/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      <guid>//localhost:1313/services/quality-assurance/</guid>
+      <description>&lt;p&gt;We have well established pipeline to ensure the best quality of annotations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Mission: Accelerating the future of radiology AI with clinically accurate annotations.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/about.png&#34; alt=&#34;About Us&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-story&#34;&gt;Our Story&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Founded by medical AI consultants and board-certified radiologists&lt;/li&gt;&#xA;&lt;li&gt;Years of experience in clinical imaging &amp;amp; AI development&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;book-a-call&#34;&gt;Book a Call&lt;/h2&gt;&#xA;&lt;p&gt;[Calendly Link] or email directly&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

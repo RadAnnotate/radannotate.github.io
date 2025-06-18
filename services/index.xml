@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Rad Annotate</title>
+    <link>//localhost:1313/services/</link>
+    <description>Recent content in Services on Rad Annotate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jun 2025 15:15:26 +1000</lastBuildDate>
+    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annotation Types</title>
+      <link>//localhost:1313/services/annotation-types/</link>
+      <pubDate>Fri, 13 Jun 2025 12:33:46 +1000</pubDate>
+      <guid>//localhost:1313/services/annotation-types/</guid>
+      <description>&lt;p&gt;Experienced radiologists perform various annotation tasks in model development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modalities Covered</title>
+      <link>//localhost:1313/services/modalities/</link>
+      <pubDate>Fri, 13 Jun 2025 15:14:39 +1000</pubDate>
+      <guid>//localhost:1313/services/modalities/</guid>
+      <description>&lt;p&gt;We cover major radilogy modalities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Use Cases</title>
+      <link>//localhost:1313/services/use-cases/</link>
+      <pubDate>Fri, 13 Jun 2025 15:15:26 +1000</pubDate>
+      <guid>//localhost:1313/services/use-cases/</guid>
+      <description>&lt;p&gt;Annotated data could be used for model training and validation, regulatory, reseach and AI benchmarking.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quality Assurance</title>
+      <link>//localhost:1313/services/quality-assurance/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      <guid>//localhost:1313/services/quality-assurance/</guid>
+      <description>&lt;p&gt;We have well established pipeline to ensure the best quality of annotations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
