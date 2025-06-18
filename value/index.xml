@@ -6,35 +6,6 @@
     <description>Recent content in Why RadAnnotate on Rad Annotate</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 10:47:58 +1000</lastBuildDate>
     <atom:link href="//localhost:1313/value/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Secure cloud environments</title>
-      <link>//localhost:1313/value/cloud/</link>
-      <pubDate>Tue, 03 Jun 2025 10:47:58 +1000</pubDate>
-      <guid>//localhost:1313/value/cloud/</guid>
-      <description>&lt;p&gt;Secure cloud environments&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>On-premise option</title>
-      <link>//localhost:1313/value/premise/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      <guid>//localhost:1313/value/premise/</guid>
-      <description>&lt;p&gt;On-premise option (if required)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GDPR &amp; HIPAA-compliant handling</title>
-      <link>//localhost:1313/value/gdpr/</link>
-      <pubDate>Sun, 01 Jun 2025 10:44:13 +1000</pubDate>
-      <guid>//localhost:1313/value/gdpr/</guid>
-      <description>&lt;p&gt;GDPR &amp;amp; HIPAA-compliant handling&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NDA-backed workflows</title>
-      <link>//localhost:1313/value/nda/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
-      <guid>//localhost:1313/value/nda/</guid>
-      <description>&lt;p&gt;NDA-backed workflows&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
