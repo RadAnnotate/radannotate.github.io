@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Rad Annotate</title>
+    <title>Homepage on RadAnnotate</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Homepage on Rad Annotate</description>
+    <description>Recent content in Homepage on RadAnnotate</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Jun 2025 15:15:26 +1000</lastBuildDate>
